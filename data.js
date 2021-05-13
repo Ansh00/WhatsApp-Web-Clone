@@ -1,7 +1,7 @@
 let user = {
 	id: 0,
 	name: "Anshul",
-	number: "+91 91231 40293",
+	number: "+91 91111 40000",
 	pic: "images/Anshul Profile.jpg 	"
 };
 
@@ -9,7 +9,7 @@ let contactList = [
 	{
 		id: 0,
 		name: "Anshul",
-		number: "+91 91231 40293",
+		number: "+91 91111 40000",
 		pic: "images/Anshul Profile.jpg",
 		lastSeen: "Apr 29 2021 17:58:02"
 	},
@@ -22,9 +22,9 @@ let contactList = [
 	},
 	{
 		id: 2,
-		name: "Saloni",
+		name: "Richa",
 		number: "+91 72631 2937",
-		pic: "images/Saloni profile.jpg",
+		pic: "images/Richa.jpg",
 		lastSeen: "May 13 2021 19:23:16"
 	},
 	{
